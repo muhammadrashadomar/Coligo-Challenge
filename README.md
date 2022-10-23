@@ -1,6 +1,6 @@
 # coligo_test
 
-A new Flutter project.
+A new Flutter Challenge.
 
 ## Getting Started
 
